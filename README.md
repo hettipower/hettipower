@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hettipower" alt="hettipower" /></a> </p>
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react , CSS3 , JavaScript and PHP**
 
 - 📫 How to reach me **hettipower@gmail.com**
 
